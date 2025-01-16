@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋 / Cześć
+
+Full-Stack Developer at [tonik](https://tonik.com)
+
+Mentor at [AdpList](https://adplist.org/mentors/maciej-trzcinski) (Ocassionaly host event)
+
+Social media:
+* [LinkedIn](https://www.linkedin.com/in/maciejtrzcinski/)
+
+---
+<img src="https://tryhackme-badges.s3.amazonaws.com/maciejtrzcinski.png" alt="Try Hack Me Badge" />
 
 <!--
 **maciejtrzcinski/maciejtrzcinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
