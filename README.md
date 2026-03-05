@@ -1,14 +1,16 @@
 ## Hi there 👋 / Cześć
 
-Full-Stack Developer at [tonik](https://tonik.com)
+Frontend Developer at [Tonik](https://tonik.com) — shipping MVPs for Silicon Valley startups
 
-Mentor at [AdpList](https://adplist.org/mentors/maciej-trzcinski) (Ocassionaly host event)
+AI-assisted rapid prototyping — building PoCs in 24-72h, hackathon-style
+
+Hackathon mentor at HackNation PL, European Critical Infrastructure Hackathon
+
+Stack: React, Next.js, TypeScript, Supabase
 
 Social media:
 * [LinkedIn](https://www.linkedin.com/in/maciejtrzcinski/)
-
----
-<img src="https://tryhackme-badges.s3.amazonaws.com/maciejtrzcinski.png?1" alt="Try Hack Me Badge" />
+* [trzcinski.org](https://trzcinski.org)
 
 <!--
 **maciejtrzcinski/maciejtrzcinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
