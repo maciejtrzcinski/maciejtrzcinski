@@ -1,16 +1,23 @@
-## Hi there 👋 / Cześć
+# Maciej Trzciński
+ 
+> **Content Infrastructure Engineer** — architecting the content models and schemas behind B2B SaaS. For the agentic era.
+ 
+I build the content layer agents generate *against* — the structured schemas, content models, and publishing pipelines that turn a marketing site into queryable infrastructure.
 
-Frontend Developer at [Tonik](https://tonik.com) — shipping MVPs for Silicon Valley startups
+### Stack
+ 
+`Next.js` · `Sanity` · `TypeScript` · `Vercel` · `Supabase` · `LLM / AI integrations`
+ 
+### Community
+ 
+Hackathon mentor, participant, and co-organizer — **Hackathon for builders**, **HackYeah**, **HackNation PL**, **IDEA2IMPACT**.
+ 
+### Elsewhere
+ 
+- [trzcinski.org](https://trzcinski.org)
+- [LinkedIn](https://www.linkedin.com/in/maciejtrzcinski/)
 
-AI-assisted rapid prototyping — building PoCs in 24-72h, hackathon-style
-
-Hackathon mentor at HackNation PL, European Critical Infrastructure Hackathon
-
-Stack: React, Next.js, TypeScript, Supabase
-
-Social media:
-* [LinkedIn](https://www.linkedin.com/in/maciejtrzcinski/)
-* [trzcinski.org](https://trzcinski.org)
+<sub>📍 Pobiedziska, near Poznań · Poland</sub>
 
 <!--
 **maciejtrzcinski/maciejtrzcinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
